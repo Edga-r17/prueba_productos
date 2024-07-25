@@ -18,7 +18,7 @@ El proyecto está construido sobre el siguiente stack tecnológico:
 
 1. Clonar el repositorio:
     ```bash
-    git clone https://github.com/Edga-r17/Prueba-Full-Stack.git
+    git clone https://github.com/Edga-r17/prueba_productos.git
     ```
 
 2. Entrar al repositorio:
