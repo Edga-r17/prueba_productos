@@ -21,7 +21,7 @@ El proyecto está construido sobre el siguiente stack tecnológico:
 
 2. Entrar al repositorio:
     ```bash
-    cd Prueba-Full-Stack
+    cd prueba_productos
     ```
 
 3. Crear archivo `.env` en la raíz del proyecto con el contenido de las variables globales:
